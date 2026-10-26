@@ -1,0 +1,8 @@
+# MATLAB / OS artifacts
+*.asv
+*.m~
+.DS_Store
+.vscode/
+.idea/
+*~
+Thumbs.db
